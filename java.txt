@@ -9,4 +9,4 @@ runner
 
 selenium
 
-thank u:
+thank u
